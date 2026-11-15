@@ -64,7 +64,6 @@ section {
     margin-bottom: 30px;
     border-radius: 10px;
 }
-
 h2 {
     color: #173b35;
     font-size: 28px;
@@ -222,4 +221,22 @@ p {
     .main-photo {
         height: auto;
     }
+}
+.back-home {
+    text-align: center;
+    margin-top: 30px;
+}
+
+.back-home a {
+    display: inline-block;
+    background-color: #275449;
+    color: white;
+    padding: 12px 25px;
+    text-decoration: none;
+    border-radius: 8px;
+    font-weight: bold;
+}
+
+.back-home a:hover {
+    background-color: #173b35;
 }
